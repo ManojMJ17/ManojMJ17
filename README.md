@@ -1,35 +1,35 @@
-# Hi, I'm Manoj Kumar Chilukoti
+<!-- # Hi, I'm Manoj Kumar Chilukoti
 
 **Software Engineer · Full Stack Developer**
 
 I build full-stack web applications — Java and Spring Boot on the backend, React and Next.js with TypeScript on the frontend, backed by Node.js, PostgreSQL, and MongoDB.
 
-<br>
+<br> -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManojMJ17/ManojMJ17/main/dark_mode.svg" />
   <img alt="Manoj Kumar Chilukoti — Software Engineer, Full Stack Developer — terminal profile card" src="https://raw.githubusercontent.com/ManojMJ17/ManojMJ17/main/light_mode.svg" width="100%" />
 </picture>
 
-<br>
+<!-- <br> -->
 
-### Tech Stack
+<!-- ### Tech Stack
 
-| | |
-|---|---|
+|               |                                           |
+| ------------- | ----------------------------------------- |
 | **Languages** | Java, TypeScript, JavaScript, Python, C++ |
-| **Backend** | Spring Boot, Node.js, Express.js |
-| **Frontend** | React, Next.js, Tailwind CSS |
-| **Databases** | PostgreSQL, MongoDB |
-| **Tools** | Git, GitHub, Docker |
+| **Backend**   | Spring Boot, Node.js, Express.js          |
+| **Frontend**  | React, Next.js, Tailwind CSS              |
+| **Databases** | PostgreSQL, MongoDB                       |
+| **Tools**     | Git, GitHub, Docker                       | -->
 
-<br>
+<!-- <br>
 
 ### Links
 
 **Portfolio** → [https://www.manoj-kumar.me](https://www.manoj-kumar.me/)
 
-LinkedIn → [linkedin.com/in/manoj-kumar-b35ab6348](https://linkedin.com/in/manoj-kumar-b35ab6348)
+LinkedIn → [linkedin.com/in/manoj-kumar-b35ab6348](https://linkedin.com/in/manoj-kumar-b35ab6348) -->
 
 <br>
 
