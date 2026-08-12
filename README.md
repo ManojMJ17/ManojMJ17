@@ -6,22 +6,10 @@ I build full-stack web applications — Java and Spring Boot on the backend, Rea
 
 <br>
 
-```bash
-$ whoami
-Manoj Kumar Chilukoti
-
-$ role
-Software Engineer · Full Stack Developer
-
-$ stack
-Java · Spring Boot · React · Next.js · TypeScript · Node.js
-
-$ location
-India
-
-$ portfolio
-https://www.manoj-kumar.me
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManojMJ17/ManojMJ17/main/dark_mode.svg" />
+  <img alt="Manoj Kumar Chilukoti — Software Engineer, Full Stack Developer — terminal profile card" src="https://raw.githubusercontent.com/ManojMJ17/ManojMJ17/main/light_mode.svg" width="100%" />
+</picture>
 
 <br>
 
